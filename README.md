@@ -1,11 +1,11 @@
-## webtracker
+# webtracker
 
 - Get Link to Website with Items
 - Get Items Links
 - Extract Info about Items
 - Generate Report Based on Info
 
-# Setup Instructions
+## Setup Instructions
 
 Download the Chrome Driver(According to the browser version)  - https://chromedriver.chromium.org/downloads
 
