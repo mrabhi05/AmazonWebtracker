@@ -1,9 +1,11 @@
 # Amazon Webtracker
 
+- Change the MIN_PRICE & MAX_PRICE for changing the price range in the tracker_config.py file.
 - Get Link to Website with Items
 - Get Items Links
 - Extract Info about Items
 - Generate Report Based on Info
+
 
 ## Setup Instructions
 
